@@ -59,7 +59,7 @@ real-time-chat-app
 1.Clone the repository
 
 ```bash
-git clone https://github.com/HemasriKanuri/real-time-chat-app.git
+git clone https://github.com/Hemasrikanuri/Real-Time-chat-app-using-Socket.io
 cd real-time-chat-app
 ```
 
